@@ -1,2 +1,4 @@
 # PasswordGEN
 ランダムなIDやパスワードを生成してくれるプログラムです。
+windows defenderに引っ掛かりますが、おそらくpyinstallerの影響なので無視してかまいません。
+mac・Linuxばんはだれかつくってくれれば感謝します。
